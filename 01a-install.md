@@ -54,7 +54,7 @@ Did you install Python 2 or 3? Why?
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> There's a number of ways to do this. From command line you can type in `python3 -v` this should tell you what version is running.
+>> There's a number of ways to do this. From command line you can enter `python3 -v` this should tell you what version is running.
 
  
 
