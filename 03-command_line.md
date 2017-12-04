@@ -43,13 +43,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > `ls`: list files in a directory
-> > `ls -a`: list all files in a directory including hidden ones
-> > `ls -l`: list files in a directory in Long Output Format (with permissions, owner, size...)
-> > `ls -lh`: list files and sizes in human readable format
-> > `ls -lah`: list all files including hidden ones with sizes in human readable format
-> > `ls -t`: list files in directories by time modified
-> > `ls -Glp`: list files, display group numbers, in Long Output Format, add / after directory namess
+> >`ls`: list files in a directory
+> >`ls -a`: list all files in a directory including hidden ones
+> >`ls -l`: list files in a directory in Long Output Format (with permissions, owner, size...)
+> >`ls -lh`: list files and sizes in human readable format
+> >`ls -lah`: list all files including hidden ones with sizes in human readable format
+> >`ls -t`: list files in directories by time modified
+> >`ls -Glp`: list files, display group numbers, in Long Output Format, add / after directory namess
 
 ---
 
