@@ -59,8 +59,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 > > `ls -lah`  
 > > `ls- lt`  
-> > 'ls- Lr'  
-> > 'ls- d'  
+> > `ls- Lr`  
+> > `ls- d`  
 > > `ls -1`   
 
 ---
