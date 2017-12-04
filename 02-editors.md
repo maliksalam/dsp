@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will use nano because it seems the easiest and although vim and emacs seem to be useful, I am not sure I will reap the benefits.
 
 --
 
@@ -89,6 +89,7 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I already use Atom. That is what was suggested to me when I started learning python. I've been happy with it so I am thinking of sticking with it. I am interested in checking out Visual Studio, however.
+ 
 
  
