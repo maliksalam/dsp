@@ -1,5 +1,5 @@
 [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) (Cohen's d)
-
+```
 import nsfg
 import numpy as np
 
@@ -23,3 +23,4 @@ cohens_d = (firsts_mean - others_mean) / pooled_var
 print("First Babies Mean:", firsts_mean)
 print("Other Babies Mean:", others_mean)
 print("Cohen's D:", cohens_d)
+```
